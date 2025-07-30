@@ -1,0 +1,63 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-29 19:44:42 -0400"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-07-29 19:44:42 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-07-29 19:44:42 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-07-29 19:44:42 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-07-29 19:44:42 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-07-29 19:44:42 -0400"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-07-29 19:44:42 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "redwood_forest": "2025-07-29 19:44:43 -0400"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2025-07-29 19:44:43 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-29 19:44:43 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
